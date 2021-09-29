@@ -1,0 +1,15 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    
+}
+
+p {
+    color: white;
+    font-family: monospace;
+}
+
+html {
+    background-color: black;
+}
