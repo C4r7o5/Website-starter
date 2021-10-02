@@ -13,3 +13,42 @@ p {
 html {
     background-color: black;
 }
+
+
+header {
+    background-color: darkred;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#sub-title {
+    text-align: center;
+    
+}
+
+nav {
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 48px;
+
+}
+
+nav ul {
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline-block;
+    height: 100%;
+    width: 10%;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+nav li a:hover {
+    color: red;
+}
